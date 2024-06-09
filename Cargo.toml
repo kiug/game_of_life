@@ -1,0 +1,8 @@
+[package]
+name = "game_of_life"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+rand = "*"
+raylib = { version = "5.0.*" }
